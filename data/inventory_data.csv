@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Current_Stock,Reorder_Level,Monthly_Sales_Qty
+P101,Mouse,15,20,150
+P102,Keyboard,8,10,120
+P103,Monitor,45,15,40
+P104,USB Hub,5,10,90
+P105,Headset,60,20,110
+P106,Webcam,12,15,80
+P107,Desk Lamp,3,10,45
+P108,RAM 16GB,25,15,75
+P109,SSD 1TB,9,10,65
+P110,Graphics Card,2,5,30
